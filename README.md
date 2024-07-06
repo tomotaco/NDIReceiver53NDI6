@@ -4,8 +4,8 @@ This project is an example project to reproduce the problem of missing sound
 in NDI SDK for UnrealEngine (3.4 to 3.6) for UE5.3.
 
 - Version 3.3 for UE5.2 seems working well with sound.
-- Version 3.4 for UE5.3 has red square blinking issue and no sound issue.
-- Version 3.5 and 3.6 for UE5.3 has no sound issue.
+- Version 3.4 for UE5.3 has red square blinking issue and that with no sound.
+- Version 3.5 and 3.6 for UE5.3 has the issue with no sound.
 
 ## Reproduction steps
 
