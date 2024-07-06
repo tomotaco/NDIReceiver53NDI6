@@ -1,0 +1,2 @@
+Please get NDI SDK for UnrealEngine from https://ndi.video/for-developers/ndi-unreal-engine-sdk/ and install,
+then copy NDIIO folder from C:\Program Files\NDI\NDI SDK for Unreal Engine\PluginBuilds\UE_5.3
